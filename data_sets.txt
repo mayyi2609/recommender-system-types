@@ -1,0 +1,11 @@
+data set links
+1.for book recommendation
+it have books, rating, user id
+ http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
+2.movies recommednation
+it have movies, rating
+https://grouplens.org/datasets/movielens/latest/
+
+3.tmdb-5000 movies dataset
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
